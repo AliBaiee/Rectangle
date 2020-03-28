@@ -1,7 +1,1 @@
-# Rectangle
-Test 
-Ali 
-ALIss
-ALuc
-yahoo
-cnns
+This progam using to redu internet traffic by using "SOM" algoritim,
